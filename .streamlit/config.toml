@@ -1,0 +1,8 @@
+.streamlit/
+└── config.toml
+[server]
+headless = true
+
+[runner]
+env = { PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION = "python" }
+PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION = "python"
