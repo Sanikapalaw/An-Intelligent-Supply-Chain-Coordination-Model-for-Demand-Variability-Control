@@ -1,0 +1,25 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Deep Learning
+tensorflow
+
+# Geographic / Maps
+folium
+streamlit-folium
+
+# Reinforcement Learning
+gym
+
+# Web App
+streamlit
