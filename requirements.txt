@@ -1,27 +1,27 @@
-# ---- Core ----
+# Core
 numpy==1.26.4
 pandas==2.2.2
 
-# ---- Visualization ----
+# Visualization
 matplotlib==3.8.4
 seaborn==0.13.2
 plotly==5.22.0
 
-# ---- ML ----
+# Machine Learning
 scikit-learn==1.5.0
 joblib==1.4.2
 
-# ---- Deep Learning ----
+# Deep Learning
 tensorflow==2.12.1
 keras==2.12.0
 
-# ---- Streamlit (CRITICAL) ----
+# Streamlit (CRITICAL FIX)
 streamlit==1.32.2
 protobuf==3.20.3
 
-# ---- Maps ----
+# Maps
 folium==0.15.1
 streamlit-folium==0.18.0
 
-# ---- RL ----
+# Reinforcement Learning
 gym==0.26.2
